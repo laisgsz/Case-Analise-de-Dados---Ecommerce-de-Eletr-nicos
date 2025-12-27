@@ -24,6 +24,8 @@ Queries Avançadas: Utilização de JOINS múltiplos para consolidar informaçõ
 Lógica de Agregação: Aplicação de funções SUM e COUNT com agrupamentos (GROUP BY) para calcular métricas financeiras essenciais como Faturamento Total e Lucro Líquido.
 
 Tratamento e Inteligência de Negócio (Excel)
+
+
 Limpeza de Dados: Exportação e sanitização dos dados provenientes do banco de dados.
 
 
