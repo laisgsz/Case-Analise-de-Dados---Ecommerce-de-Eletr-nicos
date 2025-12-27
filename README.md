@@ -5,7 +5,9 @@ Esse projeto consiste em um case de análise de dados de vendas de produtos em u
 Ponto de partida:
 
 Eu preciso de um relatório que mostre o nome da Categoria, a quantidade de vendas,
-o Faturamento Total (Preço * Quantidade), o Lucro Total ( (Preço - Custo) * Quantidade ), a margem de vendas (lucro/faturamento) (%) e o status da rentabilidade.
+o Faturamento Total (Preço * Quantidade), o Lucro Total ( (Preço - Custo) * Quantidade ), a margem de vendas (lucro/faturamento) (%) e o status sobre a rentabilidade.
+
+
 Banco de dados relacionais Pgadmin4 - Postgree SQL 
 
 Extração e Manipulação de Dados com SQL:
