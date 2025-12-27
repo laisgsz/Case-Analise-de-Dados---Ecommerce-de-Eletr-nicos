@@ -23,8 +23,8 @@ Limpeza de Dados: Exportação e sanitização dos dados provenientes do banco d
 Criação de Métricas de Eficiência: Desenvolvimento de cálculos de Margem de Lucro %
 Lógica Condicional: Aplicação de função lógica (SES) para categorizar automaticamente o nível de rentabilidade dos produtos (Rentabilidade Alta, Média ou Baixa), aplicação de formatação condicional.
 
- Visualização de Dados e Insights (Dashboard)
-Storytelling com Dados: Construção de dashboards interativos para transformar dados brutos em insights visuais.
+ Visualização de Dados e Insights 
+Storytelling com Dados: Construção de gráfico para transformar dados brutos em insights visuais.
 Apoio à Decisão: Geração de recomendações estratégicas sobre onde alocar orçamento de marketing com base no retorno financeiro real por categoria.
 
 Engenharia de Software e Controle (Git)
