@@ -27,7 +27,7 @@ Limpeza de Dados: Exportação e sanitização dos dados provenientes do banco d
 Criação de Métricas de Eficiência: Desenvolvimento de cálculos de Margem de Lucro %
 
 
-Lógica Condicional: Aplicação de função lógica (SES) para categorizar automaticamente o nível de rentabilidade dos produtos (Rentabilidade Alta, Média ou Baixa), aplicação de formatação condicional.
+Lógica Condicional: Aplicação de função lógica (SES) para categorizar automaticamente o nível de rentabilidade dos produtos (Rentabilidade Alta, Média ou Baixa)e  aplicação de formatação condicional com cores.
 
 
 
